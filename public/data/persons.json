@@ -1,0 +1,28 @@
+[    
+        {
+          "id": 1,
+          "nombre": "John",
+          "image": "../assets/person1.jpg"
+        },
+        {
+          "id": 2,
+          "nombre": "Mario",
+          "image": "../assets/person2.jpg"
+        },
+        {
+          "id": 3,
+          "nombre": "Ruben",
+          "image": "../assets/person3.jpg"
+        },
+        {
+          "id": 4,
+          "nombre": "Alberto",
+          "image": "../assets/person4.jpeg"
+        },
+        {
+          "id": 5,
+          "nombre": "Paquito",
+          "image": "../assets/person5.jpg"
+        }
+   
+]

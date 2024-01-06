@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "nombre": "Brand 1",
+    "image": "../assets/brand1.jpg"
+  },
+  {
+    "id": 1,
+    "nombre": "Brand 2",
+    "image": "../assets/brand2.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Brand 3",
+    "image": "../assets/brand3.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Brand 4",
+    "image": "../assets/brand4.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Brand 5",
+    "image": "../assets/brand5.png"
+  }
+]

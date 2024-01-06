@@ -1,0 +1,74 @@
+[
+    {
+      "id": 0,
+      "nombre": "Service 1",
+      "image": "../assets/service1.jpg",
+      "descripcion": "Una gran y detallada descripción del servicio número 1",
+      "path1": "../assets/service1-1.jpg",
+      "path2": "../assets/service1-2.jpg",
+      "path3": "../assets/service1-3.jpg"
+    },
+    {
+      "id": 1,
+      "nombre": "Service 2",
+      "image": "../assets/service2.jpg",
+      "descripcion": "Una gran y detallada descripción del servicio número 2",
+      "path1": "../assets/service2-1.jpg",
+      "path2": "../assets/service2-2.jpg",
+      "path3": "../assets/service2-3.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Service 3",
+      "image": "../assets/service3.jpg",
+      "descripcion": "Una gran y detallada descripción del servicio número 3",
+      "path1": "../assets/service3-1.jpg",
+      "path2": "../assets/service3-2.jpg",
+      "path3": "../assets/service3-3.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Service 4",
+      "image": "../assets/service4.jpg",
+      "descripcion": "Una gran y detallada descripción del servicio número 4",
+      "path1": "../assets/service4-1.jpg",
+      "path2": "../assets/service4-2.jpg",
+      "path3": "../assets/service4-3.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Service 5",
+      "image": "../assets/service5.jpg",
+      "descripcion": "Una gran y detallada descripción del servicio número 5",
+      "path1": "../assets/service5-1.jpg",
+      "path2": "../assets/service5-2.jpg",
+      "path3": "../assets/service5-3.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Service 6",
+      "image": "../assets/service6.jpg",
+      "descripcion": "Una gran y detallada descripción del servicio número 6",
+      "path1": "../assets/service6-1.jpg",
+      "path2": "../assets/service6-2.jpg",
+      "path3": "../assets/service6-3.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Service 7",
+      "image": "../assets/service7.jpg",
+      "descripcion": "Una gran y detallada descripción del servicio número 7",
+      "path1": "../assets/service7-1.jpg",
+      "path2": "../assets/service7-2.jpg",
+      "path3": "../assets/service7-3.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Service 8",
+      "image": "../assets/service8.jpg",
+      "descripcion": "Una gran y detallada descripción del servicio número 8",
+      "path1": "../assets/service8-1.jpg",
+      "path2": "../assets/service8-2.jpg",
+      "path3": "../assets/service8-3.jpg"
+    }   
+  ]
